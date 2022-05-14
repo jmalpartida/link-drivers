@@ -1,9 +1,8 @@
-One WYSIWYG framework, multiple purposes  
-https://ckeditor.com/ckeditor-5/
-Using Azure Web Apps (for Free) with Oracle Autonomous Database (without Wallets) 
-https://medium.com/oracledevs/using-azure-web-apps-for-free-with-oracle-autonomous-database-without-wallets-89d3fcb7b268
-Microservice using Spring Boot and the Autonomous JSON Database 
-https://github.com/oracle/json-in-db/tree/master/MongoExamples/SpringBoot
-Mongodb Shell 
-https://www.mongodb.com/docs/mongodb-shell/
+One WYSIWYG framework, multiple purposes  https://ckeditor.com/ckeditor-5/
+Using Azure Web Apps (for Free) with Oracle Autonomous Database (without Wallets) https://medium.com/oracledevs/using-azure-web-apps-for-free-with-oracle-autonomous-database-without-wallets-89d3fcb7b268
+:::: Store and analyse json data using the oracle API for MongoDB and ::::
+Microservice using Spring Boot and the Autonomous JSON Database https://github.com/oracle/json-in-db/tree/master/MongoExamples/SpringBoot
+Mongodb Shell https://www.mongodb.com/docs/mongodb-shell/
+General Bikeshare Feed Specification (GBFS) https://github.com/NABSA/gbfs/blob/master/gbfs.md
+::::
 
