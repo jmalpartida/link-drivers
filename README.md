@@ -1,1 +1,1 @@
-Link drivers contiene informacion relacionada al soporte de sotfware de computadoras
+Contiene información relacionada al soporte, desarrollo, referencias DevOps
