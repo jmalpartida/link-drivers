@@ -4,5 +4,6 @@ Using Azure Web Apps (for Free) with Oracle Autonomous Database (without Wallets
 Microservice using Spring Boot and the Autonomous JSON Database https://github.com/oracle/json-in-db/tree/master/MongoExamples/SpringBoot
 Mongodb Shell https://www.mongodb.com/docs/mongodb-shell/
 General Bikeshare Feed Specification (GBFS) https://github.com/NABSA/gbfs/blob/master/gbfs.md
+Using Oracle Database API for MongoDB https://oracle.github.io/learning-library/data-management-library/database/json/mongodb-api/workshops/freetier/index.html
 ::::
 
