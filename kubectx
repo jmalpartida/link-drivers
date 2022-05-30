@@ -1,0 +1,7 @@
+manejar multiples clusters :
+Te muestro un par de tips que te van hacer la vida más fácil cuando te toca manejar multiples clusters.
+
+Kubectx: https://github.com/ahmetb/kubectx  
+kube-ps1: https://github.com/jonmosco/kube-ps1
+
+Fuente : DaveOps https://www.youtube.com/watch?v=LReGg2bmabU
