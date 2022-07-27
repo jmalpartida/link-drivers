@@ -8,6 +8,7 @@ Using Oracle Database API for MongoDB https://oracle.github.io/learning-library/
 ::::
 /*How to UPSERT (INSERT OR UPDATE) ows With Merge in Oracle Database*/
 /*Ask TOM Office Hours*/
+Scripts for the SQL Office Hours session How to UPSERT (INSERT or UPDATE) rows with MERGE in Oracle Database https://asktom.oracle.com/pls/apex/asktom.search?oh=17904
 https://bit.ly/SQL-ATOH-MERGE
 https://livesql.oracle.com/apex/f?p=590:1000::::::
 
