@@ -1,2 +1,6 @@
 How to Provision APEX in Oracle Cloud Using Included REST APIs, CLI, and SDKs
+In the previous blog post, you learned how to provision APEX on OCI using the graphic user interface via Oracle Cloud Console. But is it possible to provision APEX on OCI via scripts? – Yes, it is!
+In this blog, which is part of the APEX on Autonomous Database blog series, you will learn how to provision APEX instance on OCI using REST APIs, Command Line Interface (CLI) utility and Software Development Kits (SDKs).
+Oracle Cloud Infrastructure provides public REST APIs and Software Development Kits (SDKs) to help create and manage OCI resources. Let us see how you can use these to automate provisioning APEX on OCI.
+
 https://blogs.oracle.com/apex/post/how-to-provision-apex-in-oracle-cloud-using-included-rest-apis-cli-and-sdks?source=:so:li:or:awr:odv:::&SC=:so:li:or:awr:odv:::&pcode=
